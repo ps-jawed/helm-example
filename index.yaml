@@ -3,7 +3,7 @@ entries:
   nginx-chart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-03T01:19:54.861672123+05:30"
+    created: "2024-12-03T01:31:58.633213733+05:30"
     description: This is a nginx helm chart for demo
     digest: 108f832316d58a71937817d37de4b253cc530217ad67381d82a085cdebd0150d
     maintainers:
@@ -12,6 +12,6 @@ entries:
     name: nginx-chart
     type: application
     urls:
-    - https://github.com/ps-jawed/helm-example/nginx-chart-0.1.0.tgz
+    - https://ps-jawed.github.io/helm-example/nginx-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-03T01:19:54.860574559+05:30"
+generated: "2024-12-03T01:31:58.632679864+05:30"
